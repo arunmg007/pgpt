@@ -82,9 +82,9 @@ posthog==3.0.1
 pycparser==2.21
 pydantic==1.10.8
 Pygments==2.15.1
-pygpt4all==1.1.0
-pygptj==2.0.3
-pyllamacpp==2.3.0
+pygpt4all
+pygptj
+pyllamacpp
 pypandoc==1.11
 pyparsing==2.4.7
 python-dateutil==2.8.2
